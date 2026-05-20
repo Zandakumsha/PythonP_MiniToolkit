@@ -12,7 +12,7 @@ for loops, range, while loops, and loop control
 Functions, parameters, arguments, return values, and passing functions as arguments.
 Lists- Built-in modules and custom module.
 
-when running my programme you will encounter section where you will have to input a variable.
+To start the programme enter the menu.py file in-order to access all the other file and to run the programme smoothly.
 
 It was challenging to figure out how to create a main file that has menu for all my files.
 
